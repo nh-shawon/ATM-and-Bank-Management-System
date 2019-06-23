@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1530171081 source:d:\atm and bank management system\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstring>
+	"Account_Info.h"
+	"Deposit_Money.h"
+	"Withdraw_Money.h"
+	"modify_account.h"
+	"close_account.h"
+	"showall.h"
+	"balance_enquiry.h"
+
+1529846461 source:d:\atm and bank management system\src\account_info.cpp
+	"Account_Info.h"
+
+1529845678 d:\atm and bank management system\include\account_info.h
+	<iostream>
+	<string>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1529978358 d:\atm and bank management system\include\deposit_money.h
+	<Account_Info.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1529978358 source:d:\atm and bank management system\src\deposit_money.cpp
+	"Deposit_Money.h"
+
+1529672500 d:\atm and bank management system\include\withdraw_money.h
+	<Account_Info.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1529860190 source:d:\atm and bank management system\src\withdraw_money.cpp
+	"Withdraw_Money.h"
+
+1529673049 d:\atm and bank management system\balance enquiry.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<fstream>
+
+1529673049 source:d:\atm and bank management system\balance enquiry.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<fstream>
+
+1529679939 d:\atm and bank management system\balance_enquiry.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<fstream>
+
+1529680911 source:d:\atm and bank management system\balance_enquiry.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<fstream>
+	"balance_enquiry.h"
+
+1529680579 d:\atm and bank management system\balance_enquiry.h
+
+1529844981 d:\atm and bank management system\modify_account.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<cstring>
+	<Deposit_Money.h>
+
+1529872304 source:d:\atm and bank management system\modi.cpp
+	"modify_account.h"
+
+1529872304 d:\atm and bank management system\close_account.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<cstring>
+
+1529872706 source:d:\atm and bank management system\closeaccount.cpp
+	"close_account.h"
+
+1529980828 d:\atm and bank management system\showall.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<string.h>
+	<iomanip>
+	<fstream>
+	<vector>
+	<algorithm>
+	<Deposit_Money.h>
+
